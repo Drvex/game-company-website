@@ -1,5 +1,6 @@
-# My React Frontend Project,
-## I used React.js, scss in this projects.
+# My React Frontend Project \n
+
+I used React.js, scss in this projects.
 
 https://www.reminogames.com/
 
