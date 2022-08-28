@@ -1,6 +1,6 @@
 # My React Frontend Project
 
-I used React.js, scss in this projects.
+I used React.js in this project.
 
 https://www.reminogames.com/
 
