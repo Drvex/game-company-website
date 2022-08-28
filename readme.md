@@ -1,4 +1,4 @@
-# My React Frontend Project
+# Game Company Website
 
 I used React.js in this project.
 
