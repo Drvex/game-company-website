@@ -1,4 +1,4 @@
-# My React Frontend Project \n
+# My React Frontend Project
 
 I used React.js, scss in this projects.
 
