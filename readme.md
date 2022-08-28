@@ -15,6 +15,6 @@ https://www.reminogames.com/
 
 
 ![](https://github.com/Drvex/remino-games/blob/main/2022-08-28%2020-41-53.gif)
-![](https://github.com/Drvex/remino-games/blob/main/Ekran Resmi 2022-08-28 21.07.16.png)
+![](https://github.com/Drvex/remino-games/blob/main/Ekran Resmi%202022-08-28%2021.07.16.png)
 ![](https://github.com/Drvex/remino-games/blob/main/2022-08-28%2020-41-53.gif)
 ![](https://github.com/Drvex/remino-games/blob/main/2022-08-28%2020-41-53.gif)
