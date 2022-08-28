@@ -16,7 +16,7 @@ https://www.reminogames.com/
 ## Mobile Design
 ![](https://github.com/Drvex/remino-games/blob/main/2022-08-28%2020-41-53.gif)
 
-## Computer Design
+## Desktop Design
 ![](https://github.com/Drvex/remino-games/blob/main/Ekran%20Resmi%202022-08-28%2021.07.16.png)
 ![](https://github.com/Drvex/remino-games/blob/main/Ekran%20Resmi%202022-08-28%2021.07.33.png)
 ![](https://github.com/Drvex/remino-games/blob/main/Ekran%20Resmi%202022-08-28%2021.08.03.png)
